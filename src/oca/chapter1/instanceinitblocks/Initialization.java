@@ -6,9 +6,7 @@ package oca.chapter1.instanceinitblocks;
  */
 public class Initialization {
 
-    public static void main(String[] args) {
-        System.out.println("main mehtod");
-
+    public static void mains(String[] args) {
         Initialization object = new Initialization();
         // instance blocka ancaq classin
         // objectini yaradarken daxil olur
