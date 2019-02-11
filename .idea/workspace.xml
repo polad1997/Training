@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/instanceinitblocks/Initialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/oca/chapter1/instanceinitblocks/Initialization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oca/chapter2/loops/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,69 +18,70 @@
     <session id="-970700386">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="35" />
+          <entry key="java" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="35" />
+          <entry key="JAVA" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10050" />
+          <entry key="java" value="9872" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10050" />
+          <entry key="JAVA" value="9872" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1741559165">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1880" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1880" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter2/compoundassignment/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter2/compoundassignment/Attention.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter2/logicaloperators/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oca/chapter2/equality/Test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,11 +91,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oca/chapter2/ifelse/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter2/loops/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter2/continuebreak/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="742" column="10" selection-start-line="742" selection-start-column="10" selection-end-line="742" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -199,11 +226,13 @@
         <option value="$PROJECT_DIR$/src/oca/chapter2/incrementdecrement/Test.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter2/casting/Test.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter2/compoundassignment/Test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter2/compoundassignment/Attention.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/logicaloperators/Test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/equality/Test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/ifelse/Test.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter2/ifthenelse/Test.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter2/ternary/Test.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter2/switchcase/Test.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter2/loops/Test.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter2/continuebreak/Test.java" />
       </list>
     </option>
   </component>
@@ -227,6 +256,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -270,15 +300,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Polad/Desktop/Training/src/oca/chapter2/compoundassignment/Attention.java" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Polad/Desktop/Training/src/oca/chapter1/classesandfiles/Animal.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549819341051" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549913744716" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
@@ -295,13 +324,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Attention" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter2.compoundassignment.Attention" />
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oca.chapter2.loops.Test" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.chapter2.compoundassignment.*" />
+          <option name="PATTERN" value="oca.chapter2.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,11 +339,11 @@
       </method>
     </configuration>
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter2.casting.Test" />
+      <option name="MAIN_CLASS_NAME" value="oca.chapter2.continuebreak.Test" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.chapter2.casting.*" />
+          <option name="PATTERN" value="oca.chapter2.continuebreak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,11 +352,11 @@
       </method>
     </configuration>
     <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter2.logicaloperators.Test" />
+      <option name="MAIN_CLASS_NAME" value="oca.chapter2.ifthenelse.Test" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.chapter2.logicaloperators.*" />
+          <option name="PATTERN" value="oca.chapter2.ifthenelse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,11 +365,11 @@
       </method>
     </configuration>
     <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter2.equality.Test" />
+      <option name="MAIN_CLASS_NAME" value="oca.chapter2.ternary.Test" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.chapter2.equality.*" />
+          <option name="PATTERN" value="oca.chapter2.ternary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,11 +378,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter2.ifelse.Test" />
+      <option name="MAIN_CLASS_NAME" value="oca.chapter2.switchcase.Test" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.chapter2.ifelse.*" />
+          <option name="PATTERN" value="oca.chapter2.switchcase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,19 +391,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.Attention" />
       <item itemvalue="Application.Test (3)" />
       <item itemvalue="Application.Test (4)" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Attention" />
-        <item itemvalue="Application.Test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -396,19 +425,19 @@
       <workItem from="1549468571133" duration="9043000" />
       <workItem from="1549549715391" duration="3296000" />
       <workItem from="1549711272673" duration="5561000" />
-      <workItem from="1549733158012" duration="2514000" />
-      <workItem from="1549796864263" duration="3257000" />
-      <workItem from="1549818496048" duration="1392000" />
+      <workItem from="1549733158012" duration="1832000" />
+      <workItem from="1549896247077" duration="5390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53359000" />
+    <option name="totallyTimeSpent" value="56490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2631579" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2680162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -417,14 +446,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3683274" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36654803" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3291815" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -607,13 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/logicaloperators/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oca/chapter1/reviewquestions/task7/employee/WaterFiller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -638,13 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oca/chapter1/instanceandclassvariables/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -652,17 +667,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/equality/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/ifelse/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/ifthenelse/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="218">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/ternary/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/switchcase/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="80" column="28" lean-forward="true" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="742" column="10" selection-start-line="742" selection-start-column="10" selection-end-line="742" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/loops/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/logicaloperators/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/continuebreak/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
