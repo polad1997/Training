@@ -2,7 +2,7 @@ package oca.chapter3continue.equality;
 
 import java.util.Arrays;
 
-public class Test {
+public final class Test {
 
     public static void main(String[] args) {
         String s1 = "Polad";
