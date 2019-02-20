@@ -1,4 +1,4 @@
-package oca.chapter3continue.convertarrayandarraylist;
+package oca.chapter3.convertarrayandarraylist;
 
 import java.util.*;
 

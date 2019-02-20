@@ -1,4 +1,4 @@
-package oca.chapter3continue.datetime;
+package oca.chapter3.datetime;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -6,7 +6,6 @@ import java.time.LocalTime;
 import java.time.Month;
 import java.time.format.DateTimeFormatter;
 import java.time.format.FormatStyle;
-import java.util.Date;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package oca.chapter3continue.ArrayList;
+package oca.chapter3.ArrayList;
 
 import java.util.ArrayList;
 import java.util.List;
