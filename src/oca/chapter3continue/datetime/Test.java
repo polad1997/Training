@@ -4,6 +4,9 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.Month;
+import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
+import java.util.Date;
 
 public class Test {
     public static void main(String[] args) {
@@ -19,7 +22,11 @@ public class Test {
 
         LocalDateTime localDateTime = LocalDateTime.of(localDate, localTime);
 
+        System.out.println(localTime.format(DateTimeFormatter.ISO_LOCAL_TIME));
 
+        DateTimeFormatter shortDateTime = DateTimeFormatter.ofLocalizedDate(FormatStyle.SHORT) ;
+
+        System.out.println(shortDateTime.format(localDateTime));
     }
 
 }
