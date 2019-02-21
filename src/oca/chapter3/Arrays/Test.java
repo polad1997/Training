@@ -1,4 +1,4 @@
-package oca.chapter3continue.Arrays;
+package oca.chapter3.Arrays;
 
 import java.util.Arrays;
 

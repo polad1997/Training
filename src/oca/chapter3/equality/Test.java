@@ -1,4 +1,4 @@
-package oca.chapter3continue.equality;
+package oca.chapter3.equality;
 
 import java.util.Arrays;
 

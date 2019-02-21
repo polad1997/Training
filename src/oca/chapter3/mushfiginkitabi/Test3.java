@@ -1,4 +1,4 @@
-package oca.chapter3continue.mushfiginkitabi;
+package oca.chapter3.mushfiginkitabi;
 
 import java.util.Arrays;
 
