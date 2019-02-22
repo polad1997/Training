@@ -15,5 +15,6 @@ public class Test3 {
         System.out.println(Arrays.toString(array[3]));
 //        array[2] = new Integer[2]; array[] objectine Integer menimsede bilmerem
 
+
     }
 }
