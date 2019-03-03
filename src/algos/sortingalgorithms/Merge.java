@@ -25,6 +25,10 @@ public class Merge {
             mergeSort(array, midIndex + 1, highIndex);
             System.out.println(Arrays.toString(array));
         }
+
+        /**
+         * NOT FINISHED !!!
+         */
     }
 
 }
