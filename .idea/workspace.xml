@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algos/sortingalgorithms/Bubble.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algos/sortingalgorithms/Insertion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algos/sortingalgorithms/Merge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oca/chapter4/staticinstance/Koala.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oca/chapter4/staticinstance/Koala.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,49 +15,71 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-970700386">
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2322" />
-          <entry key="xml" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2322" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Training" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/protectedsamples/swan/Swan.java">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/PredicateSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="136">
+              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/father/Father.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <folding>
+                <element signature="e#209#210#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/child/Child.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Koala.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -74,6 +93,32 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/TestHelper.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,94 +128,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Koala.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-              <folding>
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticimports/Imports.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#652#653#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#762#763#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/overloading/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
-              <folding>
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Equality.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -189,22 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oca/chapter1/reviewquestions/task7/employee/Water.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter1/reviewquestions/task7/employee/WaterFiller.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter1/referencesandprimitives/Test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter1/reviewquestions/task7/aquarium/Water.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter1/musfiginkitabi/primitetypes.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter1/musfiginkitabi/Primitetypes.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/numericpromotion/test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/numericpromotion/Test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/incrementdecrement/Test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/casting/Test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/compoundassignment/Test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/compoundassignment/Attention.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/ifthenelse/Test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/ternary/Test.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter2/switchcase/Test.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter2/loops/Test.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter2/continuebreak/Test.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter2/mushfiginkitabi/Test.java" />
@@ -240,20 +187,28 @@
         <option value="$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test2.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter4/overloading/Test.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter3/questions/Test.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/constructor/Test.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/constructor/Sample.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/constructor/Hamster.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/lambdas/Animal.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/lambdas/CheckTrait.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/lambdas/CheckIfHopper.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/lambdas/TraditionalSearch.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/lambdas/PredicateSearch.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/Child.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/Father.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/father/Father.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/child/Child.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test1.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="286" />
-    <option name="y" value="195" />
-    <option name="width" value="1383" />
-    <option name="height" value="744" />
+    <option name="width" value="1366" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -263,6 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,6 +242,21 @@
               <item name="Training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oca" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+              <item name="instanceinitblocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oca" type="462c0819:PsiDirectoryNode" />
               <item name="chapter4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -294,7 +265,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
               <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-              <item name="staticinstance" type="462c0819:PsiDirectoryNode" />
+              <item name="mushfiginkitabi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Training" type="b2602c69:ProjectViewProjectNode" />
@@ -304,8 +275,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -313,7 +282,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Polad/Desktop/Training/src/oca/chapter1/classesandfiles/Animal.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551206923422" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551445786171" />
     <property name="last_opened_file_path" value="D:/tekila/tekila-billing-gateway" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -332,13 +301,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="Koala" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter4.staticinstance.Koala" />
+  <component name="RunManager" selected="Application.Initialization">
+    <configuration name="Hamster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oca.chapter4.constructor.Hamster" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.chapter4.staticinstance.*" />
+          <option name="PATTERN" value="oca.chapter4.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,12 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter4.overloading.Test" />
+    <configuration name="Initialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oca.chapter1.instanceinitblocks.Initialization" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.chapter4.overloading.*" />
+          <option name="PATTERN" value="oca.chapter1.instanceinitblocks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter4.passbyvalue.Test" />
+    <configuration name="PredicateSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oca.chapter4.lambdas.PredicateSearch" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.chapter4.passbyvalue.*" />
+          <option name="PATTERN" value="oca.chapter4.lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,12 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter4.passbyvalue.Test2" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oca.chapter4.constructor.Test" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.chapter4.passbyvalue.*" />
+          <option name="PATTERN" value="oca.chapter4.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,12 +354,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter4.staticinstance.TestHelper" />
+    <configuration name="TraditionalSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oca.chapter4.lambdas.TraditionalSearch" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.chapter4.staticinstance.*" />
+          <option name="PATTERN" value="oca.chapter4.lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,19 +368,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestHelper" />
-      <item itemvalue="Application.Koala" />
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.Test2" />
-      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Hamster" />
+      <item itemvalue="Application.TraditionalSearch" />
+      <item itemvalue="Application.PredicateSearch" />
+      <item itemvalue="Application.Initialization" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Koala" />
-        <item itemvalue="Application.TestHelper" />
+        <item itemvalue="Application.Initialization" />
+        <item itemvalue="Application.PredicateSearch" />
+        <item itemvalue="Application.TraditionalSearch" />
+        <item itemvalue="Application.Hamster" />
+        <item itemvalue="Application.Test (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -444,35 +413,37 @@
       <workItem from="1550673203045" duration="10991000" />
       <workItem from="1550832477691" duration="7815000" />
       <workItem from="1551199012138" duration="6315000" />
+      <workItem from="1551358296691" duration="7002000" />
+      <workItem from="1551435550793" duration="5401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118909000" />
+    <option name="totallyTimeSpent" value="132207000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49367088" visible="true" weight="0.23319837" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.492635" visible="true" weight="0.23903178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5063291" side_tool="true" weight="0.21848138" />
+      <window_info id="Favorites" order="6" sideWeight="0.507365" side_tool="true" weight="0.23903178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25622776" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25531915" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39569312" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3505338" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3499327" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32740214" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3270525" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -521,78 +492,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/compoundassignment/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/ifelse/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/ifthenelse/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter1/musfiginkitabi/Primitetypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/mushfiginkitabi/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/mushfiginkitabi/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/mushfiginkitabi/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/mushfiginkitabi/Test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/time/Month.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/time/LocalDate.java" />
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter3continue/equality/Test1.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/time/LocalTime.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/time/LocalDateTime.java" />
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter2/equality/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oca/chapter3/equality/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -677,84 +577,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13209">
-          <caret line="777" column="10" selection-start-line="777" selection-start-column="10" selection-end-line="777" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Test5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/methods/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/varargs/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/protectedsamples/bird/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/protectedsamples/swan/Swan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/TestHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Equality.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Koala.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -802,6 +628,207 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12801">
+          <caret line="754" column="10" selection-start-line="754" selection-start-column="10" selection-end-line="754" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/methods/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/varargs/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/protectedsamples/swan/Swan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter3/questions/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/constructor/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/constructor/Hamster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/CheckTrait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/CheckIfHopper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/TraditionalSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" selection-start-line="19" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/protectedsamples/bird/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Equality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/PredicateSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/father/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/child/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Koala.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/TestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -819,4 +846,852 @@
       </state>
     </states>
   </component>
+</project><?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<component name="BookmarkManager">
+  <bookmark url="file://$PROJECT_DIR$/src/oca/chapter1/understandingvariablescope/Mouse.java" line="19" mnemonic="9" />
+</component>
+<component name="ChangeListManager">
+  <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
+    <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <change beforePath="$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java" afterDir="false" />
+  </list>
+  <ignored path="$PROJECT_DIR$/out/" />
+  <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+  <option name="SHOW_DIALOG" value="false" />
+  <option name="HIGHLIGHT_CONFLICTS" value="true" />
+  <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+  <option name="LAST_RESOLUTION" value="IGNORE" />
+</component>
+<component name="FavoritesManager">
+  <favorites_list name="Training" />
+</component>
+<component name="FileEditorManager">
+  <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <file pinned="false" current-in-tab="false">
+      <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/PredicateSearch.java">
+        <provider selected="true" editor-type-id="text-editor">
+          <state relative-caret-position="136">
+            <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </state>
+        </provider>
+      </entry>
+    </file>
+    <file pinned="false" current-in-tab="false">
+      <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test.java">
+        <provider selected="true" editor-type-id="text-editor">
+          <state relative-caret-position="153">
+            <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          </state>
+        </provider>
+      </entry>
+    </file>
+    <file pinned="false" current-in-tab="false">
+      <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/father/Father.java">
+        <provider selected="true" editor-type-id="text-editor">
+          <state relative-caret-position="51">
+            <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <folding>
+              <element signature="e#209#210#0" expanded="true" />
+            </folding>
+          </state>
+        </provider>
+      </entry>
+    </file>
+    <file pinned="false" current-in-tab="false">
+      <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/child/Child.java">
+        <provider selected="true" editor-type-id="text-editor">
+          <state relative-caret-position="272">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          </state>
+        </provider>
+      </entry>
+    </file>
+    <file pinned="false" current-in-tab="false">
+      <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test1.java">
+        <provider selected="true" editor-type-id="text-editor">
+          <state relative-caret-position="306">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <folding>
+              <element signature="e#302#303#0" expanded="true" />
+              <element signature="e#326#327#0" expanded="true" />
+            </folding>
+          </state>
+        </provider>
+      </entry>
+    </file>
+    <file pinned="false" current-in-tab="false">
+      <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Koala.java">
+        <provider selected="true" editor-type-id="text-editor">
+          <state relative-caret-position="34">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </state>
+        </provider>
+      </entry>
+    </file>
+    <file pinned="false" current-in-tab="false">
+      <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test.java">
+        <provider selected="true" editor-type-id="text-editor">
+          <state relative-caret-position="85">
+            <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          </state>
+        </provider>
+      </entry>
+    </file>
+    <file pinned="false" current-in-tab="true">
+      <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test1.java">
+        <provider selected="true" editor-type-id="text-editor">
+          <state relative-caret-position="102">
+            <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <folding>
+              <element signature="e#318#319#0" expanded="true" />
+              <element signature="e#400#401#0" expanded="true" />
+            </folding>
+          </state>
+        </provider>
+      </entry>
+    </file>
+    <file pinned="false" current-in-tab="false">
+      <entry file="file://$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java">
+        <provider selected="true" editor-type-id="text-editor">
+          <state relative-caret-position="220">
+            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <folding>
+              <element signature="e#515#516#0" expanded="true" />
+              <element signature="e#571#572#0" expanded="true" />
+            </folding>
+          </state>
+        </provider>
+      </entry>
+    </file>
+    <file pinned="false" current-in-tab="false">
+      <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/TestHelper.java">
+        <provider selected="true" editor-type-id="text-editor">
+          <state relative-caret-position="85">
+            <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          </state>
+        </provider>
+      </entry>
+    </file>
+  </leaf>
+</component>
+<component name="FileTemplateManagerImpl">
+  <option name="RECENT_TEMPLATES">
+    <list>
+      <option value="Interface" />
+      <option value="Class" />
+    </list>
+  </option>
+</component>
+<component name="FindInProjectRecents">
+  <findStrings>
+    <find>equals</find>
+  </findStrings>
+  <dirStrings>
+    <dir>C:\Users\Polad\Desktop\Training\src\oca</dir>
+  </dirStrings>
+</component>
+<component name="Git.Settings">
+  <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+</component>
+<component name="IdeDocumentHistory">
+  <option name="CHANGED_PATHS">
+    <list>
+      <option value="$PROJECT_DIR$/src/oca/chapter2/loops/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter2/continuebreak/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter2/mushfiginkitabi/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter2/mushfiginkitabi/Test2.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter2/mushfiginkitabi/Test3.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter2/mushfiginkitabi/Test5.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter2/mushfiginkitabi/Test4.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter2/equality/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/eqquality/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/Arrays/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/ArrayList/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/convertarrayandarraylist/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/equality/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/equality/Test1.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/convertarrayandarraylist/Periods.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/datetime/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/mushfiginkitabi/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/mushfiginkitabi/Test2.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/mushfiginkitabi/Test3.java" />
+      <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3continue/mushfiginkitabi/Equality.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Test3.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Test4.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Test5.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/varargs/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/protectedsamples/bird/Bird.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/protectedsamples/swan/Swan.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/staticinstance/TestHelper.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/staticinstance/Koala.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test1.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/staticimports/Imports.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test2.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/overloading/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter3/questions/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/constructor/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/constructor/Sample.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/constructor/Hamster.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/lambdas/Animal.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/lambdas/CheckTrait.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/lambdas/CheckIfHopper.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/lambdas/TraditionalSearch.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/lambdas/PredicateSearch.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/Child.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/Father.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/father/Father.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/child/Child.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test1.java" />
+      <option value="$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java" />
+    </list>
+  </option>
+</component>
+<component name="ProjectFrameBounds" extendedState="6">
+  <option name="width" value="1366" />
+  <option name="height" value="735" />
+</component>
+<component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <ConfirmationsSetting value="1" id="Add" />
+</component>
+<component name="ProjectView">
+  <navigator proportions="" version="1">
+    <foldersAlwaysOnTop value="true" />
+  </navigator>
+  <panes>
+    <pane id="Scope" />
+    <pane id="ProjectPane">
+      <subPane>
+        <expand>
+          <path>
+            <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+            <item name="Training" type="462c0819:PsiDirectoryNode" />
+          </path>
+          <path>
+            <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+            <item name="Training" type="462c0819:PsiDirectoryNode" />
+            <item name="src" type="462c0819:PsiDirectoryNode" />
+          </path>
+          <path>
+            <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+            <item name="Training" type="462c0819:PsiDirectoryNode" />
+            <item name="src" type="462c0819:PsiDirectoryNode" />
+            <item name="oca" type="462c0819:PsiDirectoryNode" />
+          </path>
+          <path>
+            <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+            <item name="Training" type="462c0819:PsiDirectoryNode" />
+            <item name="src" type="462c0819:PsiDirectoryNode" />
+            <item name="oca" type="462c0819:PsiDirectoryNode" />
+            <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+          </path>
+          <path>
+            <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+            <item name="Training" type="462c0819:PsiDirectoryNode" />
+            <item name="src" type="462c0819:PsiDirectoryNode" />
+            <item name="oca" type="462c0819:PsiDirectoryNode" />
+            <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            <item name="instanceinitblocks" type="462c0819:PsiDirectoryNode" />
+          </path>
+          <path>
+            <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+            <item name="Training" type="462c0819:PsiDirectoryNode" />
+            <item name="src" type="462c0819:PsiDirectoryNode" />
+            <item name="oca" type="462c0819:PsiDirectoryNode" />
+            <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+          </path>
+          <path>
+            <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+            <item name="Training" type="462c0819:PsiDirectoryNode" />
+            <item name="src" type="462c0819:PsiDirectoryNode" />
+            <item name="oca" type="462c0819:PsiDirectoryNode" />
+            <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+            <item name="mushfiginkitabi" type="462c0819:PsiDirectoryNode" />
+          </path>
+          <path>
+            <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+            <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+          </path>
+        </expand>
+        <select />
+      </subPane>
+    </pane>
+    <pane id="PackagesPane" />
+  </panes>
+</component>
+<component name="PropertiesComponent">
+  <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Polad/Desktop/Training/src/oca/chapter1/classesandfiles/Animal.java" />
+  <property name="WebServerToolWindowFactoryState" value="false" />
+  <property name="aspect.path.notification.shown" value="true" />
+  <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551445786171" />
+  <property name="last_opened_file_path" value="D:/tekila/tekila-billing-gateway" />
+  <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  <property name="nodejs_package_manager_path" value="npm" />
+  <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+</component>
+<component name="RunDashboard">
+  <option name="ruleStates">
+    <list>
+      <RuleState>
+        <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+      </RuleState>
+      <RuleState>
+        <option name="name" value="StatusDashboardGroupingRule" />
+      </RuleState>
+    </list>
+  </option>
+</component>
+<component name="RunManager" selected="Application.Initialization">
+  <configuration name="Hamster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="oca.chapter4.constructor.Hamster" />
+    <module name="Training" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="oca.chapter4.constructor.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+  <configuration name="Initialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="oca.chapter1.instanceinitblocks.Initialization" />
+    <module name="Training" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="oca.chapter1.instanceinitblocks.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+  <configuration name="PredicateSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="oca.chapter4.lambdas.PredicateSearch" />
+    <module name="Training" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="oca.chapter4.lambdas.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+  <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="oca.chapter4.constructor.Test" />
+    <module name="Training" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="oca.chapter4.constructor.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+  <configuration name="TraditionalSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="oca.chapter4.lambdas.TraditionalSearch" />
+    <module name="Training" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="oca.chapter4.lambdas.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+  <list>
+    <item itemvalue="Application.Test (3)" />
+    <item itemvalue="Application.Hamster" />
+    <item itemvalue="Application.TraditionalSearch" />
+    <item itemvalue="Application.PredicateSearch" />
+    <item itemvalue="Application.Initialization" />
+  </list>
+  <recent_temporary>
+    <list>
+      <item itemvalue="Application.Initialization" />
+      <item itemvalue="Application.PredicateSearch" />
+      <item itemvalue="Application.TraditionalSearch" />
+      <item itemvalue="Application.Hamster" />
+      <item itemvalue="Application.Test (3)" />
+    </list>
+  </recent_temporary>
+</component>
+<component name="SvnConfiguration">
+  <configuration />
+</component>
+<component name="TaskManager">
+  <task active="true" id="Default" summary="Default task">
+    <changelist id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="" />
+    <created>1548610883991</created>
+    <option name="number" value="Default" />
+    <option name="presentableId" value="Default" />
+    <updated>1548610883991</updated>
+    <workItem from="1548610889655" duration="3333000" />
+    <workItem from="1548614428583" duration="3691000" />
+    <workItem from="1549038946492" duration="1674000" />
+    <workItem from="1549190046597" duration="16894000" />
+    <workItem from="1549218851304" duration="2704000" />
+    <workItem from="1549468571133" duration="9043000" />
+    <workItem from="1549549715391" duration="3296000" />
+    <workItem from="1549711272673" duration="5561000" />
+    <workItem from="1549733158012" duration="1832000" />
+    <workItem from="1549896247077" duration="5390000" />
+    <workItem from="1550037295339" duration="586000" />
+    <workItem from="1550069408425" duration="3837000" />
+    <workItem from="1550469193780" duration="1179000" />
+    <workItem from="1550496887875" duration="7323000" />
+    <workItem from="1550555355925" duration="29000" />
+    <workItem from="1550559973157" duration="13165000" />
+    <workItem from="1550673203045" duration="10991000" />
+    <workItem from="1550832477691" duration="7815000" />
+    <workItem from="1551199012138" duration="6315000" />
+    <workItem from="1551358296691" duration="7002000" />
+    <workItem from="1551435550793" duration="5401000" />
+  </task>
+  <servers />
+</component>
+<component name="TimeTrackingManager">
+  <option name="totallyTimeSpent" value="132207000" />
+</component>
+<component name="ToolWindowManager">
+  <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+  <editor active="true" />
+  <layout>
+    <window_info content_ui="combo" id="Project" order="0" sideWeight="0.492635" visible="true" weight="0.23903178" />
+    <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+    <window_info id="Image Layers" order="2" />
+    <window_info id="Designer" order="3" />
+    <window_info id="UI Designer" order="4" />
+    <window_info id="Capture Tool" order="5" />
+    <window_info id="Favorites" order="6" sideWeight="0.507365" side_tool="true" weight="0.23903178" />
+    <window_info anchor="bottom" id="Message" order="0" />
+    <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
+    <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25531915" />
+    <window_info anchor="bottom" id="Debug" order="3" weight="0.39569312" />
+    <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+    <window_info anchor="bottom" id="TODO" order="6" />
+    <window_info anchor="bottom" id="Version Control" order="7" />
+    <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+    <window_info anchor="bottom" id="Terminal" order="9" weight="0.3499327" />
+    <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+    <window_info anchor="bottom" id="Messages" order="11" weight="0.3270525" />
+    <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+    <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+    <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+    <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    <window_info anchor="right" id="Palette" order="3" />
+    <window_info anchor="right" id="Capture Analysis" order="4" />
+    <window_info anchor="right" id="Database" order="5" />
+    <window_info anchor="right" id="Theme Preview" order="6" />
+    <window_info anchor="right" id="Palette&#9;" order="7" />
+    <window_info anchor="right" id="Maven Projects" order="8" />
+    <window_info anchor="right" id="Maven" order="9" />
+  </layout>
+  <layout-to-restore>
+    <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49367088" visible="true" weight="0.21848138" />
+    <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+    <window_info id="Image Layers" order="2" />
+    <window_info id="Designer" order="3" />
+    <window_info id="UI Designer" order="4" />
+    <window_info id="Capture Tool" order="5" />
+    <window_info id="Favorites" order="6" sideWeight="0.5063291" side_tool="true" weight="0.21848138" />
+    <window_info anchor="bottom" id="Message" order="0" />
+    <window_info anchor="bottom" id="Find" order="1" />
+    <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36204576" />
+    <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
+    <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+    <window_info anchor="bottom" id="TODO" order="6" />
+    <window_info anchor="bottom" id="Version Control" order="7" />
+    <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+    <window_info anchor="bottom" id="Terminal" order="9" weight="0.3512786" />
+    <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+    <window_info anchor="bottom" id="Messages" order="11" weight="0.32839838" />
+    <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+    <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+    <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+    <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    <window_info anchor="right" id="Palette" order="3" />
+    <window_info anchor="right" id="Capture Analysis" order="4" />
+    <window_info anchor="right" id="Database" order="5" />
+    <window_info anchor="right" id="Theme Preview" order="6" />
+    <window_info anchor="right" id="Palette&#9;" order="7" />
+    <window_info anchor="right" id="Maven Projects" order="8" />
+    <window_info anchor="right" id="Maven" order="9" />
+  </layout-to-restore>
+</component>
+<component name="TypeScriptGeneratedFilesManager">
+  <option name="version" value="1" />
+</component>
+<component name="editorHistoryManager">
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/equality/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="68">
+        <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/Arrays/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="357">
+        <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/ArrayList/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="629">
+        <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/convertarrayandarraylist/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="527">
+        <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/convertarrayandarraylist/Periods.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="272">
+        <caret line="18" selection-start-line="18" selection-end-line="18" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/time/format/DateTimeFormatter.java" />
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/datetime/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="136">
+        <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="238">
+        <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Double.java" />
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Appendable.java" />
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/AbstractStringBuilder.java" />
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/CharSequence.java" />
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/Serializable.java" />
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/StringBuilder.java" />
+  <entry file="file://$PROJECT_DIR$/src/oca/Mushfig" />
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Test2.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="391">
+        <caret line="23" selection-start-line="23" selection-end-line="23" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+    <provider selected="true" editor-type-id="text-editor" />
+  </entry>
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java" />
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java" />
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Test3.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="306">
+        <caret line="18" selection-start-line="18" selection-end-line="18" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java" />
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Test4.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="243">
+        <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Test5.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="85">
+        <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticimports/Imports.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="130">
+        <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <folding>
+          <element signature="imports" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="255">
+        <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test2.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="166">
+        <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <folding>
+          <element signature="imports" expanded="true" />
+          <element signature="e#621#622#0" expanded="true" />
+          <element signature="e#652#653#0" expanded="true" />
+          <element signature="e#702#703#0" expanded="true" />
+          <element signature="e#762#763#0" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/overloading/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="68">
+        <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+        <folding>
+          <element signature="e#252#253#0" expanded="true" />
+          <element signature="e#288#289#0" expanded="true" />
+          <element signature="e#341#342#0" expanded="true" />
+          <element signature="e#377#378#0" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="12801">
+        <caret line="754" column="10" selection-start-line="754" selection-start-column="10" selection-end-line="754" selection-end-column="10" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/methods/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="187">
+        <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/varargs/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="187">
+        <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/protectedsamples/swan/Swan.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="102">
+        <caret line="6" selection-start-line="6" selection-end-line="6" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/questions/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="221">
+        <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/constructor/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="323">
+        <caret line="19" selection-start-line="19" selection-end-line="19" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/constructor/Hamster.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="136">
+        <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/Animal.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="238">
+        <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <folding>
+          <element signature="e#331#332#0" expanded="true" />
+          <element signature="e#360#361#0" expanded="true" />
+          <element signature="e#392#393#0" expanded="true" />
+          <element signature="e#422#423#0" expanded="true" />
+          <element signature="e#454#455#0" expanded="true" />
+          <element signature="e#484#485#0" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/CheckTrait.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="51">
+        <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/CheckIfHopper.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="85">
+        <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <folding>
+          <element signature="e#131#132#0" expanded="true" />
+          <element signature="e#164#165#0" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/TraditionalSearch.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="408">
+        <caret line="25" selection-start-line="19" selection-end-line="25" />
+        <folding>
+          <element signature="imports" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/protectedsamples/bird/Bird.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="34">
+        <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter3/mushfiginkitabi/Equality.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="561">
+        <caret line="33" selection-start-line="33" selection-end-line="33" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/PredicateSearch.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="136">
+        <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        <folding>
+          <element signature="imports" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="153">
+        <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/father/Father.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="51">
+        <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <folding>
+          <element signature="e#209#210#0" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/accesmodifiers/child/Child.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="272">
+        <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="178">
+        <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/mushfiginkitabi/Test1.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="306">
+        <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <folding>
+          <element signature="e#302#303#0" expanded="true" />
+          <element signature="e#326#327#0" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Koala.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="34">
+        <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="85">
+        <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/TestHelper.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="85">
+        <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter1/instanceinitblocks/Initialization.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="220">
+        <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <folding>
+          <element signature="e#515#516#0" expanded="true" />
+          <element signature="e#571#572#0" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+  <entry file="file://$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test1.java">
+    <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="102">
+        <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <folding>
+          <element signature="e#318#319#0" expanded="true" />
+          <element signature="e#400#401#0" expanded="true" />
+        </folding>
+      </state>
+    </provider>
+  </entry>
+</component>
+<component name="masterDetails">
+  <states>
+    <state key="ProjectJDKs.UI">
+      <settings>
+        <last-edited>1.8</last-edited>
+        <splitter-proportions>
+          <option name="proportions">
+            <list>
+              <option value="0.2" />
+            </list>
+          </option>
+        </splitter-proportions>
+      </settings>
+    </state>
+  </states>
+</component>
 </project>
