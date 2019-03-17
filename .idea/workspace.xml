@@ -1,102 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/oca/chapter1/understandingvariablescope/Mouse.java" line="19" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/oca/chapter5/casting/Lemur.java" line="17" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/META-INF/Training.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/algos/array/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/algos/sortingalgorithms/Bubble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/algos/sortingalgorithms/Insertion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/algos/sortingalgorithms/Merge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/classesandfiles/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/classesandfiles/Animal2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/declaringmultiplevariables/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/garbagecollection/Finalizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/idendifiers/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/initializationofvariables/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/instanceandclassvariables/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/instanceinitblocks/Initialization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/mainmethod/Zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/musfiginkitabi/Primitetypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/packageandimports/NamingConflict.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/referencesandprimitives/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/reviewquestions/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/reviewquestions/task7/aquarium/Water.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/reviewquestions/task7/aquarium/jellies/Water.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/reviewquestions/task7/employee/WaterFiller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter1/understandingvariablescope/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/casting/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/compoundassignment/Attention.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/compoundassignment/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/continuebreak/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/equality/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/ifelse/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/ifthenelse/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/incrementdecrement/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/logicaloperators/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/loops/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/mushfiginkitabi/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/mushfiginkitabi/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/mushfiginkitabi/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/mushfiginkitabi/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/numericpromotion/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/switchcase/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter2/ternary/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/ArrayList/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/Arrays/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/concatenation/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/convertarrayandarraylist/Periods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/convertarrayandarraylist/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/datetime/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/equality/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/methods/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/mushfiginkitabi/Equality.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/mushfiginkitabi/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/mushfiginkitabi/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/mushfiginkitabi/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/mushfiginkitabi/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/mushfiginkitabi/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/questions/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter3/stringbuilder/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/constructor/Hamster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/constructor/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/lambdas/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/lambdas/CheckIfHopper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/lambdas/CheckTrait.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/lambdas/PredicateSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/lambdas/TraditionalSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/methods/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/mushfiginkitabi/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/mushfiginkitabi/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/mushfiginkitabi/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/mushfiginkitabi/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/mushfiginkitabi/Test3Sub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/mushfiginkitabi/Test3Super.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/mushfiginkitabi/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/mushfiginkitabi/accesmodifiers/child/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/mushfiginkitabi/accesmodifiers/father/Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/overloading/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/passbyvalue/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/passbyvalue/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/protectedsamples/bird/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/protectedsamples/swan/Swan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/staticimports/Imports.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/staticinstance/Koala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/staticinstance/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/staticinstance/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/staticinstance/TestHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/varargs/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter5/callinginheritedmembers/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter5/callinginheritedmembers/Shark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter5/constructor/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter5/constructor/Zebra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter5/inheritance/AAA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter5/inheritance/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter5/inheritance/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter5/inheritance/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oca/chapter5/constructor/Zebra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oca/chapter5/constructor/Zebra.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,81 +19,42 @@
     <session id="-970700386">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.24" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="30" />
+          <entry key="java" value="35" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="30" />
+          <entry key="JAVA" value="35" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2944" />
+          <entry key="java" value="3642" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2944" />
+          <entry key="JAVA" value="3642" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter5/creatingfinalmethods/Bird.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter5/creatingfinalmethods/Penguin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter5/abstraction/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/chapter5/abstraction/Test2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oca/chapter5/abstraction/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -193,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oca/chapter5/interfaces/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -227,14 +98,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oca/chapter5/constructor/Zebra.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
+            <state relative-caret-position="119">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
-                <element signature="e#97#98#0" expanded="true" />
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter5/casting/Pirmate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter5/casting/Lemur.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter4/methods/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oca/chapter5/casting/HasTail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -242,8 +155,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14858">
-              <caret line="874" column="10" selection-start-line="874" selection-start-column="10" selection-end-line="874" selection-end-column="10" />
+            <state relative-caret-position="12580">
+              <caret line="740" column="10" selection-start-line="740" selection-start-column="10" selection-end-line="740" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -253,8 +166,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -272,9 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oca/chapter4/protectedsamples/bird/Bird.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter4/protectedsamples/swan/Swan.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter4/staticinstance/TestHelper.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter4/staticinstance/Koala.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter4/staticinstance/Test1.java" />
@@ -309,7 +219,6 @@
         <option value="$PROJECT_DIR$/src/oca/chapter5/Test2.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter5/inheritance/Test2.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter5/constructor/Animal.java" />
-        <option value="$PROJECT_DIR$/src/oca/chapter5/constructor/Zebra.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter5/callinginheritedmembers/Fish.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter5/callinginheritedmembers/Shark.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter5/hidingstaticmethods/Pamda.java" />
@@ -323,6 +232,10 @@
         <option value="$PROJECT_DIR$/src/oca/chapter5/abstraction/Test3.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter5/abstraction/Test.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter5/interfaces/Test.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter5/constructor/Zebra.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter5/casting/HasTail.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter5/casting/Pirmate.java" />
+        <option value="$PROJECT_DIR$/src/oca/chapter5/casting/Lemur.java" />
       </list>
     </option>
   </component>
@@ -333,10 +246,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="285" />
-    <option name="y" value="195" />
-    <option name="width" value="1383" />
-    <option name="height" value="744" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -346,7 +259,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -372,27 +284,20 @@
               <item name="oca" type="462c0819:PsiDirectoryNode" />
               <item name="chapter5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Training" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-              <item name="abstraction" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Polad/Desktop/Training/src/oca/chapter1/classesandfiles/Animal.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552331696459" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552845817881" />
     <property name="last_opened_file_path" value="D:/tekila/tekila-billing-gateway" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -411,7 +316,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mouse">
+  <component name="RunManager" selected="Application.Lemur">
+    <configuration name="Lemur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oca.chapter5.casting.Lemur" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oca.chapter5.casting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Mouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oca.chapter5.hidingvariables.Mouse" />
       <module name="Training" />
@@ -464,33 +382,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.chapter4.mushfiginkitabi.Test4" />
-      <module name="Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oca.chapter4.mushfiginkitabi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Test4" />
       <item itemvalue="Application.Test3" />
       <item itemvalue="Application.Shark" />
       <item itemvalue="Application.Panda" />
       <item itemvalue="Application.Mouse" />
+      <item itemvalue="Application.Lemur" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lemur" />
         <item itemvalue="Application.Mouse" />
         <item itemvalue="Application.Panda" />
         <item itemvalue="Application.Shark" />
         <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test4" />
       </list>
     </recent_temporary>
   </component>
@@ -529,12 +434,14 @@
       <workItem from="1552037385240" duration="7112000" />
       <workItem from="1552139690279" duration="4440000" />
       <workItem from="1552323607278" duration="694000" />
-      <workItem from="1552327281315" duration="3915000" />
+      <workItem from="1552327281315" duration="4308000" />
+      <workItem from="1552667198234" duration="1603000" />
+      <workItem from="1552840123962" duration="4064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154804000" />
+    <option name="totallyTimeSpent" value="160864000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -546,10 +453,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-259" y="597" width="922" height="496" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.492635" visible="true" weight="0.2672065" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.492635" visible="true" weight="0.31090486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -558,15 +465,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.507365" side_tool="true" weight="0.23903178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25266904" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39118457" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3950178" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34875444" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49959514" weight="0.34875444" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50040483" side_tool="true" weight="0.34875444" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32562277" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -620,41 +527,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/overloading/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/methods/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/varargs/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/protectedsamples/swan/Swan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter3/questions/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oca/chapter4/constructor/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -906,6 +778,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/creatingfinalmethods/Penguin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/abstraction/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/abstraction/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/abstraction/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/interfaces/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oca/chapter5/hidingvariables/Rodent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -924,62 +835,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/constructor/Zebra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14858">
-          <caret line="874" column="10" selection-start-line="874" selection-start-column="10" selection-end-line="874" selection-end-column="10" />
+        <state relative-caret-position="12580">
+          <caret line="740" column="10" selection-start-line="740" selection-start-column="10" selection-end-line="740" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/creatingfinalmethods/Penguin.java">
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/polymorphism/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/constructor/Zebra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
-            <element signature="e#118#119#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/abstraction/Test2.java">
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/casting/HasTail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/abstraction/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/casting/Pirmate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/abstraction/Test3.java">
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/methods/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="184">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/interfaces/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/oca/chapter5/casting/Lemur.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="57">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
