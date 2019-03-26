@@ -6,4 +6,6 @@ public class Test2 extends Test1 {
         return "";
     }
 
+    public static void main(String[] args) {
+    }
 }
