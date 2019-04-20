@@ -7,7 +7,6 @@ public class Beta extends Baap {
         System.out.println("Beta " + h);
         return h;
     }
-
     public static void main(String[] args) {
         Baap b = new Beta();
         System.out.println(b.h + " " + b.getH());

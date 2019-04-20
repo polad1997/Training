@@ -7,7 +7,8 @@ public class Test {
         List<String> strings = new ArrayList<>();
         strings.add("polad");
         strings.add("alqayev");
-        Object object[] = strings.toArray();
+        Object o[] = strings.toArray();
+        String object[] = strings.toArray(new String[1]);
         System.out.println(Arrays.toString(object));
 
 //        String[] strings1 = (String[]) strings.toArray();
