@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/chapter4/methods/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/oca/chapter4/methods/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/enthuwaretests/test3/Seven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/oca/enthuwaretests/test3/Seven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oca/chapter4/methods/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oca/chapter4/methods/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oca/enthuwaretests/test3/Fifty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oca/enthuwaretests/test3/Fifty.java" afterDir="false" />
-    </list>
+    <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/tests/NineTeen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oca/tests/O1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,13 +53,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/fizzbuzz/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="119">
+              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/palindrome/Palindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oca/tests/TTTtest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -87,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
+            <state relative-caret-position="12461">
               <caret line="764" column="26" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
             </state>
           </provider>
@@ -145,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oca/enthuwaretests/test4/FiftyNine.java" />
         <option value="$PROJECT_DIR$/src/oca/enthuwaretests/test4/SixtyOne.java" />
         <option value="$PROJECT_DIR$/src/oca/enthuwaretests/test4/SixtySeven.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter4/methods/Test.java" />
@@ -196,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/fizzbuzz/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/oca/tests/TTTtest.java" />
+        <option value="$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/palindrome/Palindrome.java" />
       </list>
     </option>
   </component>
@@ -213,7 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,21 +232,7 @@
               <item name="Training" type="b2602c69:ProjectViewProjectNode" />
               <item name="Training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Training" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algosdatascructures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Training" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algosdatascructures" type="462c0819:PsiDirectoryNode" />
-              <item name="fizzbuzz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Training" type="b2602c69:ProjectViewProjectNode" />
@@ -260,14 +242,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="RuntimeExce&#9;PSI&#9;JAVA://java.lang.RuntimeException&#10;Excep&#9;PSI&#9;JAVA://java.lang.Exception" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558815809857" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559135603261" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -291,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TTTtest">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.fizzbuzz.FizzBuzz" />
       <module name="Training" />
@@ -305,8 +287,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Msg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.tests.Msg" />
+    <configuration name="MyFor3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oca.tests.MyFor3" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
@@ -318,12 +300,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFor3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.tests.MyFor3" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.palindrome.Palindrome" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.tests.*" />
+          <option name="PATTERN" value="udemy.bootcamp.algosdatascructures.palindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,19 +340,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Msg" />
       <item itemvalue="Application.Ref" />
       <item itemvalue="Application.MyFor3" />
       <item itemvalue="Application.FizzBuzz" />
       <item itemvalue="Application.TTTtest" />
+      <item itemvalue="Application.Palindrome" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TTTtest" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.TTTtest" />
         <item itemvalue="Application.MyFor3" />
         <item itemvalue="Application.Ref" />
-        <item itemvalue="Application.Msg" />
       </list>
     </recent_temporary>
   </component>
@@ -444,11 +426,12 @@
       <workItem from="1558332564996" duration="27000" />
       <workItem from="1558508035389" duration="5061000" />
       <workItem from="1558814780600" duration="1072000" />
+      <workItem from="1559133124704" duration="2391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294767000" />
+    <option name="totallyTimeSpent" value="297158000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -463,7 +446,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.492635" visible="true" weight="0.2624811" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.492635" visible="true" weight="0.26626325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -472,14 +455,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.507365" side_tool="true" weight="0.23903178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32839838" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35188216" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21931261" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39443535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49959514" weight="0.20294599" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49959514" weight="0.2913257" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50040483" side_tool="true" weight="0.34875444" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32242227" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -532,13 +515,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oca/tests/Five.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -902,6 +878,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12461">
+          <caret line="764" column="26" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10166">
@@ -923,24 +906,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/fizzbuzz/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="764" column="26" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oca/tests/TTTtest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/fizzbuzz/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/palindrome/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
