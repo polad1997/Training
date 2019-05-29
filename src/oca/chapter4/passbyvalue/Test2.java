@@ -18,7 +18,7 @@ public class Test2 {
 
         ArrayList<Integer> integers = new ArrayList<>();
         method3(integers);
-        System.out.println(integers);   //Eger ki reassign etmemisemse , eyni objecti update ediremse its okay
+        System.out.println(integers);   //Eger ki reassign etmemisemse , eyni objecti update ediremse its okaydd
 
     }
 
