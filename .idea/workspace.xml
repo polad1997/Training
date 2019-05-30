@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="" />
+    <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oca/tests/O1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oca/tests/Patient.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,14 +49,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/palindrome/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+            <state relative-caret-position="187">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/reverseint/ReverseInt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -141,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oca/enthuwaretests/test4/SixtyOne.java" />
         <option value="$PROJECT_DIR$/src/oca/enthuwaretests/test4/SixtySeven.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter4/methods/Test.java" />
         <option value="$PROJECT_DIR$/src/oca/chapter4/passbyvalue/Test2.java" />
@@ -192,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/fizzbuzz/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/oca/tests/TTTtest.java" />
         <option value="$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/palindrome/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/reverseint/ReverseInt.java" />
       </list>
     </option>
   </component>
@@ -249,7 +248,7 @@
     <property name="SearchEverywhereHistoryKey" value="RuntimeExce&#9;PSI&#9;JAVA://java.lang.RuntimeException&#10;Excep&#9;PSI&#9;JAVA://java.lang.Exception" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559135603261" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559203921099" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -273,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.ReverseInt">
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.fizzbuzz.FizzBuzz" />
       <module name="Training" />
@@ -313,12 +312,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.tests.Ref" />
+    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.reverseint.ReverseInt" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.tests.*" />
+          <option name="PATTERN" value="udemy.bootcamp.algosdatascructures.reverseint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,19 +339,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ref" />
       <item itemvalue="Application.MyFor3" />
       <item itemvalue="Application.FizzBuzz" />
       <item itemvalue="Application.TTTtest" />
       <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.ReverseInt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseInt" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.TTTtest" />
         <item itemvalue="Application.MyFor3" />
-        <item itemvalue="Application.Ref" />
       </list>
     </recent_temporary>
   </component>
@@ -426,12 +425,12 @@
       <workItem from="1558332564996" duration="27000" />
       <workItem from="1558508035389" duration="5061000" />
       <workItem from="1558814780600" duration="1072000" />
-      <workItem from="1559133124704" duration="2391000" />
+      <workItem from="1559133124704" duration="7401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297158000" />
+    <option name="totallyTimeSpent" value="302168000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -455,7 +454,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.507365" side_tool="true" weight="0.23903178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32839838" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21931261" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2667758" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39443535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -515,13 +514,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oca/tests/Five.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oca/chapter4/lambdas/CheckTrait.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -922,11 +914,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/palindrome/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        <state relative-caret-position="187">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy/bootcamp/algosdatascructures/reverseint/ReverseInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
         </state>
       </provider>
     </entry>
