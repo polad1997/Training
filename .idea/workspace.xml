@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/META-INF/Training.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/collections/list/LinkedListTest$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/collections/list/LinkedListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/oca/enthuwaretests/test3/Fifty.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,16 +21,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>equals</find>
-      <find>`</find>
-      <find>state</find>
-    </findStrings>
-    <dirStrings>
-      <dir>C:\Users\Polad\Desktop\Training\src\oca</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -48,7 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560113276695" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -71,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ImplementstrStr">
+  <component name="RunManager" selected="Application.ReverseInteger">
     <configuration name="ImplementstrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.leetcode.ImplementstrStr" />
       <module name="Training" />
@@ -111,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.reverseint.ReverseInt" />
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.leetcode.ReverseInteger" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.bootcamp.algosdatascructures.reverseint.*" />
+          <option name="PATTERN" value="udemy.bootcamp.algosdatascructures.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParantesses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.leetcode.ValidParantesses" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.leetcode.TwoSum" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
@@ -138,19 +124,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ValidParantesses" />
-      <item itemvalue="Application.ReverseInt" />
       <item itemvalue="Application.RemoveDuplicatesfromSortedArray" />
       <item itemvalue="Application.RemoveDuplicatesfromSortedArray2" />
       <item itemvalue="Application.ImplementstrStr" />
+      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.ReverseInteger" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseInteger" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.ImplementstrStr" />
         <item itemvalue="Application.RemoveDuplicatesfromSortedArray2" />
         <item itemvalue="Application.RemoveDuplicatesfromSortedArray" />
-        <item itemvalue="Application.ReverseInt" />
-        <item itemvalue="Application.ValidParantesses" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +218,8 @@
       <workItem from="1559983397210" duration="5639000" />
       <workItem from="1560077722357" duration="3072000" />
       <workItem from="1560107884481" duration="4441000" />
-      <workItem from="1566475834623" duration="17282000" />
+      <workItem from="1566475834623" duration="18011000" />
+      <workItem from="1566801109198" duration="8544000" />
     </task>
     <servers />
   </component>
@@ -253,7 +240,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
