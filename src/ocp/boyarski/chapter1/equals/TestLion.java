@@ -1,6 +1,4 @@
-package ocp.boyarski.equals;
-
-import java.util.Objects;
+package ocp.boyarski.chapter1.equals;
 
 /**
  * @author PoladA

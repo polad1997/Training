@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/ocp/boyarski/chapter1/instanceOf/TestAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/ocp/boyarski/chapter1/instanceOf/TestAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/ocp/boyarski/enums/Season$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/ocp/boyarski/enums/Season.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/ocp/boyarski/enums/TestEnums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/ocp/boyarski/equals/Lion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/ocp/boyarski/equals/TestLion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp/boyarski/enums/TestEnums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ocp/boyarski/chapter1/enums/TestEnums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp/boyarski/equals/TestLion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ocp/boyarski/chapter1/equals/TestLion.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,13 +65,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestEnums">
+  <component name="RunManager" selected="Application.LocalInnerClass">
     <configuration name="Lion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.boyarski.equals.Lion" />
+      <option name="MAIN_CLASS_NAME" value="ocp.boyarski.chapter1.equals.Lion" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.boyarski.equals.*" />
+          <option name="PATTERN" value="ocp.boyarski.chapter1.equals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.Test" />
+    <configuration name="LocalInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.boyarski.chapter1.nestedclasses.LocalInnerClass" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.bootcamp.algosdatascructures.*" />
+          <option name="PATTERN" value="ocp.boyarski.chapter1.nestedclasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +106,11 @@
       </method>
     </configuration>
     <configuration name="TestEnums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.boyarski.enums.TestEnums" />
+      <option name="MAIN_CLASS_NAME" value="ocp.boyarski.chapter1.enums.TestEnums" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.boyarski.enums.*" />
+          <option name="PATTERN" value="ocp.boyarski.chapter1.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,19 +132,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.TestInstanceOf" />
       <item itemvalue="Application.TestAnimal" />
       <item itemvalue="Application.Lion" />
       <item itemvalue="Application.TestEnums" />
+      <item itemvalue="Application.LocalInnerClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LocalInnerClass" />
         <item itemvalue="Application.TestEnums" />
         <item itemvalue="Application.Lion" />
         <item itemvalue="Application.TestAnimal" />
         <item itemvalue="Application.TestInstanceOf" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +235,7 @@
       <workItem from="1572608134911" duration="1013000" />
       <workItem from="1572847961783" duration="597000" />
       <workItem from="1574002498956" duration="6482000" />
-      <workItem from="1574175738359" duration="7779000" />
+      <workItem from="1574175738359" duration="14948000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package ocp.boyarski.enums;
+package ocp.boyarski.chapter1.enums;
 
 /**
  * @author PoladA
