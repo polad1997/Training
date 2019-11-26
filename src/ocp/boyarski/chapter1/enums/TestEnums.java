@@ -1,5 +1,7 @@
 package ocp.boyarski.chapter1.enums;
 
+import com.sun.org.apache.xpath.internal.operations.Bool;
+
 /**
  * @author PoladA
  * @Date&Time 11/20/2019 11:46
@@ -11,11 +13,9 @@ enum Season {
         public void test() {
             System.out.println("winter test");
         }
-    },
+    }, SPRING("spring"), SUMMER("summer"), FALL("fall");
 
-    SPRING("spring"), SUMMER("summer"), FALL("fall");
-
-
+ 
     private String s;
 
     private Season(String s) {

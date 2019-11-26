@@ -29,10 +29,8 @@ public class LocalInnerClass {
                 System.out.println(length * width);
             }
         }
-
         LocalInner localInner = new LocalInner();
         localInner.multiply();
-
     }
 
 
