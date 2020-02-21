@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/META-INF/Training.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,26 +59,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Capybara">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Capybara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ocp.boyarski.chapter2.casting.Capybara" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ocp.boyarski.chapter2.casting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.boyarski.chapter1.exam.Employee" />
-      <module name="Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ocp.boyarski.chapter1.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +86,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlavorsEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.boyarski.chapter1.exam.FlavorsEnum" />
-      <module name="Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ocp.boyarski.chapter1.exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Lion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ocp.boyarski.chapter2.designinterface.Lion" />
       <module name="Training" />
@@ -124,20 +99,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.strategy.Main" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.leetcode.Sqrt" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.bootcamp.algosdatascructures.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Employee" />
-      <item itemvalue="Application.FlavorsEnum" />
       <item itemvalue="Application.Lion" />
       <item itemvalue="Application.FindMatchingAnimals" />
       <item itemvalue="Application.Capybara" />
+      <item itemvalue="Application.Sqrt" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Sqrt" />
         <item itemvalue="Application.Capybara" />
         <item itemvalue="Application.FindMatchingAnimals" />
         <item itemvalue="Application.Lion" />
-        <item itemvalue="Application.FlavorsEnum" />
-        <item itemvalue="Application.Employee" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +242,15 @@
       <workItem from="1574175738359" duration="14948000" />
       <workItem from="1574323806129" duration="2546000" />
       <workItem from="1574681250686" duration="3394000" />
-      <workItem from="1574749337913" duration="10833000" />
+      <workItem from="1574749337913" duration="17568000" />
+      <workItem from="1579585489961" duration="3105000" />
+      <workItem from="1579602647164" duration="549000" />
+      <workItem from="1579954784549" duration="13000" />
+      <workItem from="1580295469161" duration="3758000" />
+      <workItem from="1580315883958" duration="3938000" />
+      <workItem from="1580388290167" duration="575000" />
+      <workItem from="1580474497397" duration="8000" />
+      <workItem from="1581402766953" duration="324000" />
     </task>
     <servers />
   </component>
