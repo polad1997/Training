@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/META-INF/Training.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/patterns/strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/patterns/strategy/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +59,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Capybara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.boyarski.chapter2.casting.Capybara" />
+  <component name="RunManager" selected="Application.Maximum69Number">
+    <configuration name="ConvertBinaryNumberinLinkedListInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.ConvertBinaryNumberinLinkedListInteger" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.boyarski.chapter2.casting.*" />
+          <option name="PATTERN" value="leetcode.goupalgo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMatchingAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.boyarski.chapter2.designinterface.functional.lambda.FindMatchingAnimals" />
+    <configuration name="CountNegativeNumbersinaSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.CountNegativeNumbersinaSortedMatrix" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.boyarski.chapter2.designinterface.functional.lambda.*" />
+          <option name="PATTERN" value="leetcode.goupalgo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.boyarski.chapter2.designinterface.Lion" />
+    <configuration name="FindNumberswithEvenNumberofDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.FindNumberswithEvenNumberofDigits" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.boyarski.chapter2.designinterface.*" />
+          <option name="PATTERN" value="leetcode.goupalgo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.strategy.Main" />
+    <configuration name="Maximum69Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.Maximum69Number" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.strategy.*" />
+          <option name="PATTERN" value="leetcode.goupalgo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.bootcamp.algosdatascructures.leetcode.Sqrt" />
+    <configuration name="SubtracttheProductandSumofDigitsofanInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.SubtracttheProductandSumofDigitsofanInteger" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.bootcamp.algosdatascructures.leetcode.*" />
+          <option name="PATTERN" value="leetcode.goupalgo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lion" />
-      <item itemvalue="Application.FindMatchingAnimals" />
-      <item itemvalue="Application.Capybara" />
-      <item itemvalue="Application.Sqrt" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SubtracttheProductandSumofDigitsofanInteger" />
+      <item itemvalue="Application.FindNumberswithEvenNumberofDigits" />
+      <item itemvalue="Application.CountNegativeNumbersinaSortedMatrix" />
+      <item itemvalue="Application.ConvertBinaryNumberinLinkedListInteger" />
+      <item itemvalue="Application.Maximum69Number" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Sqrt" />
-        <item itemvalue="Application.Capybara" />
-        <item itemvalue="Application.FindMatchingAnimals" />
-        <item itemvalue="Application.Lion" />
+        <item itemvalue="Application.Maximum69Number" />
+        <item itemvalue="Application.ConvertBinaryNumberinLinkedListInteger" />
+        <item itemvalue="Application.CountNegativeNumbersinaSortedMatrix" />
+        <item itemvalue="Application.FindNumberswithEvenNumberofDigits" />
+        <item itemvalue="Application.SubtracttheProductandSumofDigitsofanInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -251,6 +251,10 @@
       <workItem from="1580388290167" duration="575000" />
       <workItem from="1580474497397" duration="8000" />
       <workItem from="1581402766953" duration="324000" />
+      <workItem from="1582530006742" duration="8966000" />
+      <workItem from="1582787581475" duration="2503000" />
+      <workItem from="1582967049607" duration="21000" />
+      <workItem from="1583215546864" duration="4509000" />
     </task>
     <servers />
   </component>
