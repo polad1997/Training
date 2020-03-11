@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/leetcode/goupalgo/Maximum69Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/leetcode/goupalgo/Maximum69Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/leetcode/goupalgo/ToLowerCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/leetcode/goupalgo/ToLowerCase.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ToLowerCase">
+  <component name="RunManager" selected="Application.DecryptStringfromAlphabettoIntegerMapping">
     <configuration name="ConvertBinaryNumberinLinkedListInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.ConvertBinaryNumberinLinkedListInteger" />
       <module name="Training" />
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNumberswithEvenNumberofDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.FindNumberswithEvenNumberofDigits" />
+    <configuration name="DecryptStringfromAlphabettoIntegerMapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.DecryptStringfromAlphabettoIntegerMapping" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
@@ -126,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindNumberswithEvenNumberofDigits" />
       <item itemvalue="Application.CountNegativeNumbersinaSortedMatrix" />
       <item itemvalue="Application.ConvertBinaryNumberinLinkedListInteger" />
       <item itemvalue="Application.Maximum69Number" />
       <item itemvalue="Application.ToLowerCase" />
+      <item itemvalue="Application.DecryptStringfromAlphabettoIntegerMapping" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecryptStringfromAlphabettoIntegerMapping" />
         <item itemvalue="Application.ToLowerCase" />
         <item itemvalue="Application.Maximum69Number" />
         <item itemvalue="Application.ConvertBinaryNumberinLinkedListInteger" />
         <item itemvalue="Application.CountNegativeNumbersinaSortedMatrix" />
-        <item itemvalue="Application.FindNumberswithEvenNumberofDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +255,11 @@
       <workItem from="1582787581475" duration="2503000" />
       <workItem from="1582967049607" duration="21000" />
       <workItem from="1583215546864" duration="5403000" />
-      <workItem from="1583236476824" duration="1635000" />
+      <workItem from="1583236476824" duration="2932000" />
+      <workItem from="1583329129020" duration="929000" />
+      <workItem from="1583820363937" duration="10538000" />
+      <workItem from="1583919291217" duration="3635000" />
+      <workItem from="1583924428457" duration="300000" />
     </task>
     <servers />
   </component>
