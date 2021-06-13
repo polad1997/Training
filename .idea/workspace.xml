@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b75c54f5-4f62-48c0-bd65-3f30bacc2ffc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/leetcode/goupalgo/ToLowerCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/leetcode/goupalgo/ToLowerCase.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +28,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="String&#9;PSI&#9;JAVA://java.lang.String&#10;LinkedHash&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/java/util/LinkedHashSet.class&#10;LinkedSet&#9;PSI&#9;JAVA://java.util.LinkedHashSet&#10;Prio&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;State&#9;PSI&#9;JAVA://com.sun.glass.ui.Window.State&#10;Threa&#9;PSI&#9;JAVA://java.lang.Thread&#10;RuntimeExce&#9;PSI&#9;JAVA://java.lang.RuntimeException&#10;Excep&#9;PSI&#9;JAVA://java.lang.Exception" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -47,25 +51,13 @@
       <recent name="oca.tests" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.DecryptStringfromAlphabettoIntegerMapping">
-    <configuration name="ConvertBinaryNumberinLinkedListInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.ConvertBinaryNumberinLinkedListInteger" />
+  <component name="RunManager" selected="Application.PeekMethod">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preparation.mapandflatmap.Demo" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.goupalgo.*" />
+          <option name="PATTERN" value="preparation.mapandflatmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountNegativeNumbersinaSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.CountNegativeNumbersinaSortedMatrix" />
+    <configuration name="HelloWorldApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preparation.ConcurrentModificationException.HelloWorldApp" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.goupalgo.*" />
+          <option name="PATTERN" value="preparation.ConcurrentModificationException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecryptStringfromAlphabettoIntegerMapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.DecryptStringfromAlphabettoIntegerMapping" />
+    <configuration name="InternCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preparation.justrun.InternCheck" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.goupalgo.*" />
+          <option name="PATTERN" value="preparation.justrun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum69Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.Maximum69Number" />
+    <configuration name="OptinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preparation.optinal.OptinalTest" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.goupalgo.*" />
+          <option name="PATTERN" value="preparation.optinal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.goupalgo.ToLowerCase" />
+    <configuration name="PeekMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preparation.justrun.PeekMethod" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.goupalgo.*" />
+          <option name="PATTERN" value="preparation.justrun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,19 +118,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountNegativeNumbersinaSortedMatrix" />
-      <item itemvalue="Application.ConvertBinaryNumberinLinkedListInteger" />
-      <item itemvalue="Application.Maximum69Number" />
-      <item itemvalue="Application.ToLowerCase" />
-      <item itemvalue="Application.DecryptStringfromAlphabettoIntegerMapping" />
+      <item itemvalue="Application.OptinalTest" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.InternCheck" />
+      <item itemvalue="Application.HelloWorldApp" />
+      <item itemvalue="Application.PeekMethod" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DecryptStringfromAlphabettoIntegerMapping" />
-        <item itemvalue="Application.ToLowerCase" />
-        <item itemvalue="Application.Maximum69Number" />
-        <item itemvalue="Application.ConvertBinaryNumberinLinkedListInteger" />
-        <item itemvalue="Application.CountNegativeNumbersinaSortedMatrix" />
+        <item itemvalue="Application.PeekMethod" />
+        <item itemvalue="Application.HelloWorldApp" />
+        <item itemvalue="Application.InternCheck" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.OptinalTest" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +144,7 @@
       </serviceView>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -280,13 +273,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
